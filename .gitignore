@@ -1,2 +1,4 @@
 node_modules
-tmp/app.sqlite
+package-lock.json
+db/app.sqlite
+.env
